@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About
+layout: home
+author_profile: true
 permalink: /about/
 ---
 
