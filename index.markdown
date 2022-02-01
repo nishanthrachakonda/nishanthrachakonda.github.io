@@ -12,4 +12,5 @@ interested in action detection, video analysis and multimodal analysis.
 
 I have worked in the field of two wheeler driving action detection problem during
 my undergraduate research under [Prof C.V. Jawahar](https://faculty.iiit.ac.in/~jawahar/)
-and [Dr. Rohit Saluja](hsi()(https://www.cse.iitb.ac.in/~rohitsaluja/)I have also worked with [Prof. Jayanthi Sivaswamy]()https://www.iiit.ac.in/people/faculty/jsivaswamy/).
+and [Dr. Rohit Saluja](https://www.cse.iitb.ac.in/~rohitsaluja/). I have worked under 
+[Prof. Jayanthi Sivaswamy](https://www.iiit.ac.in/people/faculty/jsivaswamy/) in generalized image de-blurring.
