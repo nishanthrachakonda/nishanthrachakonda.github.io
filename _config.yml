@@ -10,6 +10,11 @@ remote_theme: mmistakes/minimal-mistakes@4.24.0
 plugins:
   - jekyll-include-cache
 
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
 author:
   name             : "Nishanth Rachakonda"
   avatar           : "/assets/images/profile.jpeg"
