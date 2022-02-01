@@ -12,14 +12,14 @@ plugins:
 
 author:
   name             : "Nishanth Rachakonda"
-  avatar           : "/_assets/images/profile.jpeg"
+  avatar           : "/assets/images/profile.jpeg"
   bio              : "Software Engineer at Google"
   location         : "Hyderabad, IN"
   github           : "nishanthrachakonda"
   links:
-    - label: "nishanthsharmar[AT]gmail[DOT]com"
+    - label: "Mail"
       icon: "fas fa-fw fa-envelope-square"
-      url: ""
+      url: "mailto:nishanthsharmar@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/nishanthshamar"
